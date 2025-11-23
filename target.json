@@ -1,0 +1,10 @@
+{
+    "include": [
+        {
+            "keyboard": "naked68choc",
+            "keymap": "vial",
+            "target": "uf2",
+            "name": "naked68choc_vial"
+        }
+    ]
+}
